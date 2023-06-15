@@ -92,3 +92,33 @@ body::after{
 .circle-grow{
     transform: scale(3.7);
 }
+
+.breaths{
+    text-align: center;
+    margin-bottom:24px;
+    font-size: 24px;
+}
+
+.instructions{
+    text-align: center;
+    margin-bottom:32px;
+}
+
+button{
+padding: 8px;
+border-radius:8px;
+border:none;
+cursor: pointer;
+background-color:black;
+color:white;
+transition: 0.3s ease all;
+}
+
+button:hover{
+    background-color:rgb(115, 111, 111);
+}
+
+.button-inactive{
+    pointer-events: none;
+    background-color:green
+}
