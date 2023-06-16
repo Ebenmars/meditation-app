@@ -2,7 +2,7 @@
  
  Tutorial By  https://www.youtube.com/@JohnKomarnicki
 
- Learned to create shapes 
+ Learned to create shapes \n
  Learned to expand javascript behavior knowleage 
  Lsearned fuction shortcut 
  Learned to make a responsive webpage
