@@ -18,7 +18,7 @@ let growCircle = () => {
     circleProgress.classList.add("circle-grow");
     setTimeout(() =>{
         circleProgress.classList.remove("circle-grow");
-    }, 11000);
+    }, 8000);
 };
 
 //Breathing Instructions
@@ -31,8 +31,8 @@ let breathingTextUpdate = () => {
         instructions.innerText ="Hold Breath";
         setTimeout(() =>{
             instructions.innerText ="Exhale Breath"
-        },8000)
-    }, ),7000;
+        },4000)
+    }, 4000);
 };
 
 
@@ -51,7 +51,7 @@ let breathinApp = () => {
         }
         growCircle();
         breathingTextUpdate();
-    }, 19000)
+    }, 12000)
 }
 
 
