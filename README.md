@@ -3,8 +3,8 @@
  Tutorial By  https://www.youtube.com/@JohnKomarnicki
 
  Learned to create shapes, 
- Learned to expand javascript behavior knowleage, 
- Lsearned fuction shortcut, 
+ Learned to expand javascript behavior knowledge, 
+ Learned function shortcut, 
  Learned to make a responsive webpage, 
 
 
