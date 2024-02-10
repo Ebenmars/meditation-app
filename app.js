@@ -1,12 +1,17 @@
+//Progress circle
 let circleProgress = document.querySelector('.circle-progress');
+//number of breaths
 let numberOfBreaths = document.querySelector('.breaths-input');
+//start button
 let start = document.querySelector('.start');
+//instructions that will change
 let instructions = document.querySelector('.instructions');
+//breath text that will change
 let breathsText = document.querySelector('.breaths-text');
+//number of breaths left
 let breathsLeft = 3;
 
 //Watching for number of breaths
-
 numberOfBreaths.addEventListener('change',() =>{
     breathsLeft = numberOfBreaths.value;
     breathsText.innerText = breathsLeft;
